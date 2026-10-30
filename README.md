@@ -54,7 +54,7 @@ Try questions such as:
 - What is overfitting?
 - What is NLP?
 
-You can check the server health at `http://127.0.0.1:5000/health`.
+
 
 ## CodeAlpha task mapping
 This project collects FAQs, preprocesses text, matches user questions with TF-IDF and cosine similarity, and displays the best matching answer in a chat interface.
